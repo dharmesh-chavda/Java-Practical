@@ -11,7 +11,7 @@ class Practical2 {
         double d = 123.456;
 
         char c = 'A';
-        boolean flag = true;
+        boolean F = true;
 
         System.out.println("Byte value: " + b);
         System.out.println("Short value: " + s);
@@ -20,6 +20,6 @@ class Practical2 {
         System.out.println("Float value: " + f);
         System.out.println("Double value: " + d);
         System.out.println("Char value: " + c);
-        System.out.println("Boolean value: " + flag);
+        System.out.println("Boolean value: " + F);
     }
 }
